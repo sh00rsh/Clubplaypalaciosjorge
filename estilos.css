@@ -1,4 +1,8 @@
 .navbar-brand{
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+.navbar-nav{
+    padding-left: 500px;
 }
